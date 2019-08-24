@@ -1,0 +1,11 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1AF0B7FB-4DB1-7EA7-6897-C7A5A96B6209}",
+	"Category": "Samples",
+	"Description": "",
+	"TargetPlatforms": [
+		"MacNoEditor",
+		"WindowsNoEditor"
+	],
+	"EpicSampleNameHash": "1226740271"
+}
